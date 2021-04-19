@@ -1,3 +1,6 @@
+# ⚠  WARNIG ⚠ :
+This repo is deprecate please refer to [sr.ht](https://git.sr.ht/~nik_codes/luaf)
+
 # Luaf
 Is a implementation of the [Barnsley fern](https://en.wikipedia.org/wiki/Barnsley_fern).  
 This implementation is made with lua and uses love2d for rendering.
